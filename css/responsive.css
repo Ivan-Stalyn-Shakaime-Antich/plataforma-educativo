@@ -1,0 +1,39 @@
+/* RESPONSIVE */
+
+@media (max-width:768px){
+
+.navbar{
+flex-direction:column;
+gap:20px;
+}
+
+.menu{
+flex-direction:column;
+align-items:center;
+}
+
+.hero h1{
+font-size:40px;
+}
+
+.hero p{
+font-size:18px;
+}
+
+.grid{
+grid-template-columns:1fr;
+}
+
+.section-title{
+font-size:30px;
+}
+
+.card{
+padding:25px;
+}
+
+iframe{
+height:220px;
+}
+
+}

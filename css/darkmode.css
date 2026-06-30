@@ -1,0 +1,41 @@
+body.dark{
+
+background:#0f172a;
+
+color:white;
+
+}
+
+body.dark .card{
+
+background:#1e293b;
+
+color:white;
+
+}
+
+body.dark .navbar{
+
+background:#111827;
+
+}
+
+body.dark .footer{
+
+background:#111827;
+
+color:white;
+
+}
+
+body.dark a{
+
+color:#38bdf8;
+
+}
+
+body.dark .hero.small{
+
+background:#111827;
+
+}
